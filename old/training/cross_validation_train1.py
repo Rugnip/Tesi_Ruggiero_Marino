@@ -65,7 +65,7 @@ for r in reviews_data:
 # ===============================
 
 client = genai.Client(
-    api_key="AIzaSyDPy5DJZVTZ3MLuCqm-0aguW0CffaCGc_s"
+       api_key="YOUR KEY"
 )
 
 
